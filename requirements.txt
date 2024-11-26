@@ -1,7 +1,7 @@
-joblib
-matplotlib
 numpy
 pandas
+joblib
+matplotlib
 plotly
 scikit-learn
 scipy
